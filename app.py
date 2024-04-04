@@ -12,5 +12,5 @@ def about():
 
 if __name__ == '__main__':
     app.run(debug=True)
-def test_dummy():
+def test_placeholder():
     pass
